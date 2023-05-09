@@ -1,13 +1,17 @@
 ## Credit
-
 This app was inspired by [osanseviero's app](https://huggingface.co/spaces/osanseviero/esmfold).
+
+# 🎈 ESMFold
+
+[*ESMFold*](https://esmatlas.com/about) is an end-to-end single sequence protein structure predictor based on the ESM-2 language model.
 
 ## Demo App
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://dipraz-protein-structur-protein-structure-prediction-app-0zf14y.streamlit.app/)
 
 
 # Protein_structure_prediction_app
-The Protein Structure Prediction App is a powerful tool that leverages deep learning algorithms to accurately predict protein structures. By utilizing state-of-the-art techniques, it provides valuable insights into protein function and offers support in the field of drug discovery. With its user-friendly interface, researchers can easily navigate and explore protein structures, making it an indispensable resource for scientific exploration.
+-The Protein Structure Prediction App utilizes deep learning to predict protein structures, aiding in understanding protein function and drug discovery. It's a user-friendly tool for researchers.
+
 
 ## Further Reading
 For more information, read the following articles:
