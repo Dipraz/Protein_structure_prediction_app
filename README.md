@@ -7,8 +7,7 @@ This app was inspired by [osanseviero's app](https://huggingface.co/spaces/osans
 
 
 # Protein_structure_prediction_app
- The Protein Structure Prediction App uses deep learning to predict protein structures. It aids in understanding protein function and supports drug discovery. It's a user-friendly tool for researchers.
-
+The Protein Structure Prediction App is a powerful tool that leverages deep learning algorithms to accurately predict protein structures. By utilizing state-of-the-art techniques, it provides valuable insights into protein function and offers support in the field of drug discovery. With its user-friendly interface, researchers can easily navigate and explore protein structures, making it an indispensable resource for scientific exploration.
 
 ## Further Reading
 For more information, read the following articles:
